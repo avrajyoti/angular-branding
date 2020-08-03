@@ -1,0 +1,8 @@
+@import "~src/styles";
+
+.block {
+  height: 300px;
+  width: 500px;
+  border: 1px solid black;
+  background-color: $primary;
+}
